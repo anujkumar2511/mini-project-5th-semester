@@ -1,0 +1,222 @@
+[09-Feb-2015 04:02:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:02:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:02:09 America/Denver] PHP Notice:  Undefined index: product_action in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 62
+[09-Feb-2015 04:02:09 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 166
+[09-Feb-2015 04:02:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:02:57 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 166
+[09-Feb-2015 04:08:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:08:23 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:08:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:08:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:08:56 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:08:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:08:59 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[09-Feb-2015 04:08:59 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[09-Feb-2015 04:09:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:09:04 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[09-Feb-2015 04:09:04 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[09-Feb-2015 04:09:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:09:08 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[09-Feb-2015 04:09:08 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[09-Feb-2015 04:09:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:09:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:09:27 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:09:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:09:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:09:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:09:38 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:17:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:17:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:17:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:17:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:17:55 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:18:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:18:25 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[09-Feb-2015 04:18:25 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[09-Feb-2015 04:18:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:18:28 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[09-Feb-2015 04:23:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:24:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[09-Feb-2015 04:24:49 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[09-Feb-2015 04:24:49 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[09-Feb-2015 04:28:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[09-Feb-2015 04:28:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[09-Feb-2015 04:28:20 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 183
+[10-Feb-2015 02:08:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[10-Feb-2015 02:09:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[10-Feb-2015 02:09:21 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[10-Feb-2015 02:09:21 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[10-Feb-2015 02:09:21 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[10-Feb-2015 02:09:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[10-Feb-2015 02:09:43 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[10-Feb-2015 02:09:43 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[10-Feb-2015 02:10:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[10-Feb-2015 02:10:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[10-Feb-2015 02:10:21 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[10-Feb-2015 02:10:21 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[10-Feb-2015 02:10:21 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[10-Feb-2015 02:22:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[10-Feb-2015 02:22:16 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[10-Feb-2015 02:22:16 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[10-Feb-2015 02:22:16 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[10-Feb-2015 02:23:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[10-Feb-2015 02:23:19 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[10-Feb-2015 02:23:19 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[10-Feb-2015 02:23:19 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[10-Feb-2015 02:23:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[10-Feb-2015 02:23:31 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[10-Feb-2015 02:23:31 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[10-Feb-2015 02:23:31 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[10-Feb-2015 02:24:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[10-Feb-2015 02:33:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[10-Feb-2015 02:33:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[10-Feb-2015 02:33:18 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[10-Feb-2015 02:33:18 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[10-Feb-2015 02:33:18 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[10-Feb-2015 02:33:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[10-Feb-2015 02:33:42 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[10-Feb-2015 02:33:42 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[10-Feb-2015 02:34:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[10-Feb-2015 02:34:02 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[10-Feb-2015 02:34:02 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[10-Feb-2015 02:34:02 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:32:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[04-Mar-2015 02:32:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:32:45 America/Denver] PHP Notice:  Undefined index: product_action in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 72
+[04-Mar-2015 02:32:45 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:32:45 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:32:45 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:32:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:32:59 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:32:59 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:32:59 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:33:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:33:44 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:33:44 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:33:44 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:33:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:33:47 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:33:47 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:33:47 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:34:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[04-Mar-2015 02:34:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:34:31 America/Denver] PHP Notice:  Undefined index: product_action in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 72
+[04-Mar-2015 02:34:31 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:34:31 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:34:31 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 02:40:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 02:40:45 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 02:40:45 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 02:40:45 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 03:03:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[04-Mar-2015 03:03:36 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[04-Mar-2015 03:03:36 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[04-Mar-2015 03:04:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[04-Mar-2015 03:04:57 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 03:04:57 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 03:04:57 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 03:04:57 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[04-Mar-2015 03:05:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[04-Mar-2015 03:05:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[04-Mar-2015 03:05:05 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[04-Mar-2015 03:05:05 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[04-Mar-2015 03:05:05 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 04:23:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 04:23:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[25-Mar-2015 04:23:11 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[25-Mar-2015 04:23:11 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[25-Mar-2015 04:24:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 04:24:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 04:24:45 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 04:24:45 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 04:24:45 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 04:39:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 04:39:54 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 04:39:54 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 04:39:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 04:44:50 America/Denver] PHP Notice:  Undefined index: user_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 3
+[25-Mar-2015 04:44:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 04:44:50 America/Denver] PHP Notice:  Undefined index: user_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/__logo.php on line 14
+[25-Mar-2015 04:44:50 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 04:44:50 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:01:09 America/Denver] PHP Notice:  Undefined index: user_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 3
+[25-Mar-2015 05:01:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:01:09 America/Denver] PHP Notice:  Undefined index: user_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/__logo.php on line 14
+[25-Mar-2015 05:01:09 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:01:09 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:01:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[25-Mar-2015 05:01:16 America/Denver] PHP Notice:  Undefined index: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 6
+[25-Mar-2015 05:01:16 America/Denver] PHP Notice:  Undefined variable: row in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 95
+[25-Mar-2015 05:01:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:01:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:01:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:01:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:01:39 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:01:39 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:01:39 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:10:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:10:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:10:23 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:10:23 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:10:23 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:11:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:11:59 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:11:59 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:11:59 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:12:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:12:04 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:12:04 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:12:04 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:12:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:12:26 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:12:26 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:12:26 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:12:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:12:37 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:12:37 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:12:37 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:12:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:12:38 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[25-Mar-2015 05:12:38 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:12:38 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:12:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[25-Mar-2015 05:13:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:13:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:13:09 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[25-Mar-2015 05:13:09 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:13:09 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:14:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:14:09 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:14:09 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:14:09 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 143
+[25-Mar-2015 05:14:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 6
+[25-Mar-2015 05:14:14 America/Denver] PHP Notice:  Undefined index: job_id in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 72
+[25-Mar-2015 05:14:14 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/applications.php on line 103
+[25-Mar-2015 05:25:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:25:33 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[25-Mar-2015 05:25:33 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:25:33 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:25:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/addjob.php on line 5
+[25-Mar-2015 05:25:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/__auth.php on line 2
+[25-Mar-2015 05:25:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:25:59 America/Denver] PHP Notice:  Undefined index: type in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 117
+[25-Mar-2015 05:25:59 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:25:59 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:26:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:26:20 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:26:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:26:23 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:26:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:26:25 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:26:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:26:27 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:26:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:26:29 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:26:29 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[25-Mar-2015 05:32:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 6
+[25-Mar-2015 05:32:41 America/Denver] PHP Notice:  Undefined variable: w in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 145
+[25-Mar-2015 05:32:41 America/Denver] PHP Notice:  Undefined variable: id in /home1/econurtu/public_html/rbftp/demo/wow/admin/jobs.php on line 203
+[15-Apr-2015 02:32:15 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/wowlc/public_html/wow/db_connection.php on line 4
+[24-Apr-2015 03:06:11 America/Chicago] PHP Warning:  move_uploaded_file(../gallery/25771615dscf6740_5538c80f2cd31.jpg): failed to open stream: No such file or directory in /home/wowlc/public_html/wow/admin/photo_action.php on line 14
+[24-Apr-2015 03:06:11 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6JRu4j' to '../gallery/25771615dscf6740_5538c80f2cd31.jpg' in /home/wowlc/public_html/wow/admin/photo_action.php on line 14
+[24-Apr-2015 03:06:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wowlc/public_html/wow/admin/photo_action.php:14) in /home/wowlc/public_html/wow/admin/photo_action.php on line 23

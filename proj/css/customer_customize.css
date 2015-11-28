@@ -1,0 +1,21 @@
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{padding:10px 6px !important}
+.ui-helper-reset {
+    font-size: 100%;
+    line-height: .7;
+    list-style: outside none none;
+    outline: 0 none;
+    text-decoration: none;
+}
+.ui-tabs .ui-tabs-nav {
+    margin: 0;
+    padding: 0em 0.2em 0;
+}
+.error{
+	
+	color:#F00}
+	.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+    float: left;
+    padding: 0.5em 0.9em;
+    text-decoration: none;
+}
